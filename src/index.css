@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.listy {
+  font-size: larger;
+  font-style: italic;
+  color: blueviolet;
+}
